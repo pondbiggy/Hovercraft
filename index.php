@@ -43,7 +43,7 @@
     <header class="header">
         <div class="container">
             <div class="header_area">
-            <img src="https://www.american.edu/spa/data-science/images/datascience-hero.jpg" alt="">
+    
                 <h1>Welcome to <br>Hovercraft Group</h1>
                 <p>DS-WebTechnology 63</p>
             </div>

@@ -51,7 +51,7 @@ body {
 }
 
 .header {
-    background: #666 url(../img/bg.jpg) no-repeat;
+    background: url('https://www.american.edu/spa/data-science/images/datascience-hero.jpg') no-repeat;
     background-position: center center;
     background-size: cover;
     width: 100%;
