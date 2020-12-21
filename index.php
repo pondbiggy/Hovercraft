@@ -32,7 +32,7 @@
                     <a href="jib.html">Jib</a>
                 </li>
                 <li>
-                    <a href="https://phazanicwebtech.herokuapp.com/">Phai</a>
+                    <a href="phai.html">Phai</a>
                 </li>
             </ul>
         </div>
@@ -96,7 +96,7 @@
                 <div class="info4_text">
                     <h1>Worapon Boontawee</h1>
                     <p>620710742<br>Data Science<br>SU76 SC48 DS2</p>
-                    <a href="https://phazanicwebtech.herokuapp.com/"><button>...Click...</button><br></a>
+                    <a href="phai.html"><button>...Click...</button><br></a>
                 </div>
                 <img src="p44.jpg" alt="">
             </div>
