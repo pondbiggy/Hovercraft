@@ -45,7 +45,7 @@
             <div class="header_area">
     
                 <h1>Welcome to <br>Hovercraft Group</h1>
-                <p>DS-WebTechnology 63</p>
+                <h3>DS-WebTechnology 63</h3>
             </div>
         </div>
     </header>
