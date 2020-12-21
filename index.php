@@ -16,8 +16,7 @@
     <div class="menubar">
         <div class="container">
             <div class="logo">
-                <img  src="ho.png"  style="width:5px;height:50px;">
-                <h1>Hovercraft Group</h1>
+                <img  src="ho.png"  style="width:5px;height:50px;"><h1>Hovercraft Group</h1>
             </div>
             <ul class="menu">
                 <li>
