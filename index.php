@@ -23,7 +23,7 @@
                     <a href="#">Home</a>
                 </li>
                 <li>
-                    <a href="#">Ball</a>
+                    <a href="ball.html">Ball</a>
                 </li>
                 <li>
                     <a href="bee.html">Bee</a>
@@ -56,7 +56,7 @@
                 <div class="info1_text">
                     <h1>Jiraphat Thongyoo</h1>
                     <p>620710040<br>Data Science<br>SU76 SC48 DS2</p>
-                    <a href="https://beewebtech.herokuapp.com/"><button>...Click...</button><br></a>
+                    <a href="ball.html"><button>...Click...</button><br></a>
                 </div>
             </div>
         </div>
