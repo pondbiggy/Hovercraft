@@ -81,12 +81,13 @@
     <section class="info3">
         <div class="container">
             <div class="info3_area">
+                <img src="p33.jpg" alt="">
                 <div class="info3_text">
                     <h1>Apatsara Piromto</h1>
                     <p>620710162<br>Data Science<br>SU76 SC48 DS2</p>
                     <a href="jib.html"><button>...Click...</button><br></a>
                 </div>
-                <img src="p33.jpg" alt="">
+                
             </div>
         </div>
     </section>
