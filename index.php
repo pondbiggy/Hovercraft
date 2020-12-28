@@ -105,10 +105,10 @@
             </div>
         </div>
     </section>
-
+    <script type='text/javascript' src='https://www.siamecohost.com/member/gcounter/graphcount.php?page=https://hovercraft4.herokuapp.com/&style=02&maxdigits=10'></script>
     <div class="clearfix"></div>
 
-    <script type='text/javascript' src='https://www.siamecohost.com/member/gcounter/graphcount.php?page=https://hovercraft4.herokuapp.com/&style=02&maxdigits=10'></script>
+   
 
 
 
